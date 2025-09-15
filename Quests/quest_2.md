@@ -81,3 +81,6 @@
  # speech wav
  - 감정대사(https://github.com/coolmusma/toylearn_AI_multimedias/blob/main/Quests/quests_30_speech.wav) : 감정기호 포함
 
+ - 감정대사(./quests_30_speech.wav) 감정기호포함
+ 
+
