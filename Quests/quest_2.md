@@ -76,7 +76,7 @@
 
 
 # scene image 
- - [gemini](https://gemini.google.com/app/a7a697ef5d47d492) 
+ - [gemini](https://g.co/gemini/share/a28da3e89113) 
 
  # speech wav
  - [감정대사](https://github.com/coolmusma/toylearn_AI_multimedias/blob/main/Quests/quests_30_speech.wav) : 감정기호 포함
